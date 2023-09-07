@@ -1,3 +1,4 @@
 # apanacolledge
 My first Repository
-author Tarun Kumawat
+author Tarun Kumawattt
+atna th a
